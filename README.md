@@ -1,2 +1,3 @@
 # tailwind-css--project
-Responsive website built with tailwind css
+Responsive web project built with TailwindCSS. reusable components, and mobile-friendly layouts.
+
